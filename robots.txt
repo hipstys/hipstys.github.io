@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hipstys.github.io/sitemap
+Sitemap: https://hipstys.github.io/app/sitemap
+Sitemap: https://hipstys.github.io/assets/sitemap
+Sitemap: https://hipstys.github.io/css/sitemap
+Sitemap: https://hipstys.github.io/includes/sitemap
+Sitemap: https://hipstys.github.io/item/sitemap
+Sitemap: https://hipstys.github.io/src/sitemap
